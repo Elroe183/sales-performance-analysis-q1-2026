@@ -37,6 +37,10 @@ Deliverables
 
 - Excel sales analysis workbook
 - Sales performance dashboard
+
+- ## Dashboard Preview
+
+![Sales Performance Dashboard](sales_dashboard.PNG)
 - Revenue trend and product performance charts
 - Business findings and recommendations
 
