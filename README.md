@@ -38,12 +38,6 @@ Deliverables
 - Excel sales analysis workbook
 - Sales performance dashboard
 
-- ## Dashboard Preview
+![Sales Performance Dashboard](sales_dashbord.PNG)
 
-![Sales Performance Dashboard](sales_dashboard.PNG)
-- Revenue trend and product performance charts
-- Business findings and recommendations
 
-Conclusion
-
-This project demonstrates how Excel can be used to analyze business data, identify performance trends, and support data-driven decisions.
